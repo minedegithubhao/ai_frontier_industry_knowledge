@@ -17,6 +17,7 @@
 7. 等待管理员或模块负责人评审，通过后合并。
 
 完整操作说明见 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+参考视频：https://www.bilibili.com/video/BV1bwcWzAE3R/?spm_id_from=333.337.search-card.all.click&vd_source=95bc3e5a1cd7bd1225d9ea9b80761067
 
 可以贡献的内容包括：
 
